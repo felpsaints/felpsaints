@@ -2,9 +2,9 @@
 
 Olá! Sou o Felipe Lima! ✌
 
-👨‍💻 - Atualmente estudando JavaScript, HTML e CSS
+👨‍💻 - Atualmente estudando JavaScript, HTML, CSS e Java
 
-👨‍🎓 - Estudante de Desenvolvimento Full Stack na DigitalHouse
+👨‍🎓 - Estudante de Desenvolvimento Full Stack na DigitalHouse e Analise e Desenvolvimento de Sistema na Faculdade Cairu
 </div>
 
 <div align="center">
