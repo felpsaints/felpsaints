@@ -2,17 +2,9 @@
 
 Olá! Sou o Felipe Lima! ✌
 
-👨‍💻 - Atualmente estudando JavaScript, HTML, CSS e Java
+👨‍💻 - Atualmente estudando JavaScript, HTML, CSS, Java, MySQL e Oracle.
 
-👨‍🎓 - Estudante de Desenvolvimento Full Stack na DigitalHouse e Analise e Desenvolvimento de Sistema na Faculdade Cairu
-</div>
-
-<div align="center">
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+👨‍🎓 - Estudante de Análise e Desenvolvimento de Sistema na Faculdade Visconde de Cairu
 </div>
 
   
